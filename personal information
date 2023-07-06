@@ -1,0 +1,28 @@
+# Prompt the user to enter personal information
+first_name = input("First Name: ")
+middle_name = input("Middle Name: ")
+last_name = input("Last Name: ")
+course = input("Course: ")
+year = input("Year: ")
+age = input("Age: ")
+gender = input("Gender: ")
+civil_status = input("Civil Status: ")
+nationality = input("Nationality: ")
+
+motto = input("Motto: ")
+
+# Display the personal information
+print("\nPersonal Information")
+print("First Name:", first_name)
+print("Middle Name:", middle_name)
+print("Last Name:", last_name)
+print("Course:", course)
+print("Year:", year)
+print("Age:", age)
+print("Gender:", gender)
+print("Civil Status:", civil_status)
+print("Nationality:", nationality)
+print("Motto:", motto)
+
+print("\nSchool: PHINMA Araullo University")
+print("College: CITE")
